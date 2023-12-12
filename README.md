@@ -1,8 +1,6 @@
 <p align="center"> 
-  <font color="red">Welcome to my Github 👋</font>
+  <font color="red"> ** Welcome to my Github 👋</font>
 </p>   
-
-<span style="color:red">这是一个红色文本。</span>
 
 <img src="https://github.com/willow017/willow017/blob/main/images/code.gif" align="right" width="600"/>
 
