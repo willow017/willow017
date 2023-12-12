@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/willow017/willow017/blob/main/images/code.gif)
 <!--
 **willow017/willow017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
