@@ -1,5 +1,5 @@
 <p align="center"> 
-  <font color="red"> ** Welcome to my Github 👋</font>
+  <font color="red"> Welcome to my Github 👋</font>
 </p>   
 
 <img src="https://github.com/willow017/willow017/blob/main/images/code.gif" align="right" width="600"/>
